@@ -1,5 +1,5 @@
 # List of projects
-<--![](https://img.shields.io/github/stars/con1mark)
+<!--![](https://img.shields.io/github/stars/con1mark)
 ![](https://img.shields.io/github/forks/con1mark)
 ![](https://img.shields.io/github/tag/con1mark)
 ![](https://img.shields.io/github/release/con1mark)
